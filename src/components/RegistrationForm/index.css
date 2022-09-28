@@ -6,3 +6,19 @@
   align-items: center;
   min-height: 100vh;
 }
+.form-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.successlogo {
+  height: 40px;
+  width: 40px;
+}
+.thankyou-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
